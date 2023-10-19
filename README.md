@@ -54,7 +54,8 @@ httpd = HTTPServer (server_address, HelloHandler)
 httpd.serve_forever()
 
 # OUTPUT:
-![image](/images/webserver1.png)
+![webserver1](https://github.com/Rithikachezhian/Web_server/assets/145742406/218d9e59-ae07-45a6-afff-b4bcd080cc84)
+
 # RESULT:
 
 The program is executed succesfully
